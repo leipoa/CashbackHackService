@@ -45,7 +45,3 @@ out/
 !**/src/test/**
 
 
-
-gradle/
-/gradlew.bat
-/settings.gradle
